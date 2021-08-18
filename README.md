@@ -34,14 +34,14 @@ He is contantly updating and share new textures over on his [DeviantArt page](ht
 ## [DHTP (Doom High Resolution Texture Project)](https://github.com/KuriKai/DHTP)  |  [2019-11-17](https://www.moddb.com/mods/doom-hd1/downloads/gzdoom-hd-texture-pack1)
 Some textures that were not remade in HOOVER1979's texture pack were used. [Forum page](https://talk.dengine.net/discussion/875/dhtp-doom-high-resolution-texture-project)
 
-## [Alternate DHTP]()  |  
+## [Alternate DHTP](https://www.moddb.com/mods/doom-hd1/downloads/gzdoom-alternative-hd-texture-pack1)
 Some textures that were not remade in either HOOVER1979's or DHTP's texture packs were used.
 
 ## [Doom Neural Upscale 2x](https://www.moddb.com/mods/oculus-quest-vr-weapons-for-questzdoom/downloads/doom-neural-upscale-2x)  |  [v0.95](https://drive.google.com/file/d/1S2sHfxTfWI1bLp5Zz9D2kfYNU49tkqco/view)
 From the [forum page](https://www.doomworld.com/forum/topic/99021-doom-neural-upscale-2x-v-10/):
 > Using AI NeuralNetworks, all textures and sprites have been upscaled 8x, then downscaled to a final 2X to restore a pixel art look.
 
-Some of these upscales were used, while other were not due to some issues and conflicts (mostly with the sprites from Project Brutality).
+Some of these upscaled spriites were used, while others were not due to some issues and conflicts (mostly with the sprites from Project Brutality).
 
 
 ## [BsP DooM Enhancement](https://www.moddb.com/downloads/bsp-doom-enhancement-36)  |  [v3.6](https://www.moddb.com/downloads/bsp-doom-enhancement-36)

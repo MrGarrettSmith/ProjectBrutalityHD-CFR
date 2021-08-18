@@ -6,10 +6,10 @@ The goal was to enhance the experience of playing the Project Brutality mod.
 
 Several mods were used, altered, and unpacked to avoid various issues and conflicts.
 
-Screenshots:
+### Screenshots:
 
 
-### GZDoom
+## GZDoom
 
 GZDoom version g3.7.2_legacy was used for compatibility and other customization purposes.
 
@@ -17,9 +17,19 @@ GZDoom version g3.7.2_legacy was used for compatibility and other customization 
 
 Utilizing WADsmoosh, a custom WAD is used containing all original levels including SIGIL.
 
+## Full Run
+
 ## Project Brutality
 
 An older test version of Project Brutality is used due to the changes of the movement system from this build onward.
 Newer builds have a new movement system in place that removes the original "feel," such as tilting when strafing.
 
 ## BsP DooM Enhancement
+
+## HOOVER1979 UltraHD Texture Pack 1K Version
+
+## Doom Neural Upscale 2x
+
+## DHTP (Doom High Resolution Texture Project)
+
+## Alternate DHTP

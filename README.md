@@ -15,10 +15,10 @@ GZDoom version g3.7.2_legacy was used for compatibility and other customization 
 Utilizing WADsmoosh, a custom WAD was created containing all original levels including SIGIL.
 
 
-### Screenshots:
+## Screenshots:
 
 
-## Mods
+## Mods:
 
 ### [Full Run](https://jp.itch.io/doom-fullrun)
 Allows player to play a "full run" of all 171 maps in all id releases as a single campaign.

@@ -8,7 +8,5 @@ Utilizing WADsmoosh, a custom WAD is used containing all original levels includi
 
 GZDoom version g3.7.2_legacy was used for compatibility and other customization purposes.
 
-
-
 The following mods were used, altered, and unpacked to avoid various issues and conflicts:
 

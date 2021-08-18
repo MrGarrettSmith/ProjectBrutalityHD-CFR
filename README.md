@@ -18,16 +18,12 @@ GZDoom version g3.7.2_legacy was used for compatibility and other customization 
 ### [WADsmoosh](https://jp.itch.io/wadsmoosh)  |  [v1.26](https://jp.itch.io/wadsmoosh/devlog/178575/wadsmoosh-126-hotfix)
 Utilizing WADsmoosh, a custom WAD was created containing all original levels including SIGIL.
 
-
 ## Screenshots:
 <img src="https://i.ibb.co/4RP4WQ8/Main-Menu-01.jpg" alt="Main Menu 01" width="200"/><img src="https://i.ibb.co/5vd3XtH/Main-Menu-02.png" alt="Main Menu 02" width="200"/><img src="https://i.ibb.co/XLbXMCw/Main-Menu-03.png" alt="Main Menu 03" width="200"/><img src="https://i.ibb.co/RH4NYkZ/gzdoom-Qo-FPwxm-A19.jpg" alt="Textures" width="200"/><img src="https://i.ibb.co/R23n9Xp/gzdoom-Qy-Sn-O3-KZWE.jpg" alt="Transition" width="200"/>
 
-
-
-
 ## Gameplay
 ![](https://github.com/garrettsmithpro/ProjectBrutalityHD-CFR/blob/main/gameplay_gif/Gameplay%2001.gif)
-
+![](https://github.com/garrettsmithpro/ProjectBrutalityHD-CFR/blob/main/gameplay_gif/Gameplay%2002.gif)
 ## Mods:
 
 ### [Full Run](https://jp.itch.io/doom-fullrun)

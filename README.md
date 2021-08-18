@@ -20,7 +20,7 @@ Utilizing WADsmoosh, a custom WAD was created containing all original levels inc
 
 
 ## Screenshots:
-<img src="https://ibb.co/ZzWcdZB" alt="alt text" width="150" height="">
+<img src="https://ibb.co/ZzWcdZB" width="150" height="">
 
 ## Mods:
 

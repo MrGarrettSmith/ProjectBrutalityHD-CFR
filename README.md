@@ -8,14 +8,15 @@ All mods listed have been altered and unpacked to avoid various issues and confl
 
 
 
-### Screenshots:
-
-
 ### [GZDoom](https://zdoom.org/downloads)  |  [g3.7.2 Legacy](https://zdoom.org/files/gzdoom/bin/gzdoom-bin-3-8-0-legacy-x64.zip)
 GZDoom version g3.7.2_legacy was used for compatibility and other customization purposes.
 
 ### [WADsmoosh](https://jp.itch.io/wadsmoosh)  |  [v1.26](https://jp.itch.io/wadsmoosh/devlog/178575/wadsmoosh-126-hotfix)
 Utilizing WADsmoosh, a custom WAD was created containing all original levels including SIGIL.
+
+
+### Screenshots:
+
 
 ## Mods
 

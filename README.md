@@ -52,7 +52,7 @@ Some textures were used.
 From the [forum page](https://www.doomworld.com/forum/topic/99021-doom-neural-upscale-2x-v-10/):
 > Using AI NeuralNetworks, all textures and sprites have been upscaled 8x, then downscaled to a final 2X to restore a pixel art look.
 
-Some of these upscaled sprites were used, while others were not due to some issues and conflicts (mostly with the sprites from Project Brutality).
+Some of these upscaled sprites were used, while others were not due to some issues and conflicts (mostly from sprites of Project Brutality).
 
 
 ### [BsP DooM Enhancement](https://www.moddb.com/downloads/bsp-doom-enhancement-36)  |  [v3.6](https://www.moddb.com/downloads/bsp-doom-enhancement-36)

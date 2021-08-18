@@ -20,8 +20,8 @@ Utilizing WADsmoosh, a custom WAD was created containing all original levels inc
 
 
 ## Screenshots:
-<img src="https://ibb.co/ZzWcdZB">
-
+<img src="">
+<img src="https://ibb.co/ZzWcdZB" alt="Main Menu 01" width="200"/>
 ## Mods:
 
 ### [Full Run](https://jp.itch.io/doom-fullrun)

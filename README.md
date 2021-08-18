@@ -26,24 +26,7 @@ Utilizing WADsmoosh, a custom WAD was created containing all original levels inc
 
 
 ## Gameplay
-
-
-
-
-<a href="https://gifyu.com/image/GLC2"><img src="https://s5.gifyu.com/images/Gameplay-01.th.gif" alt="Gameplay-01.gif" border="0" /></a>
-
-
-
-
-[![](https://s5.gifyu.com/images/Gameplay-01.gif)](https://s5.gifyu.com/images/Gameplay-01.gif)
-
-
-
-
-
-
-
-
+![](https://github.com/garrettsmithpro/ProjectBrutalityHD-CFR/blob/main/gameplay_gif/Gameplay%2001.gif)
 
 ## Mods:
 

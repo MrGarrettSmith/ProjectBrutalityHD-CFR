@@ -61,7 +61,3 @@ Some of these upscaled sprites were used, while others were not due to some issu
 
 ### [BsP DooM Enhancement](https://www.moddb.com/downloads/bsp-doom-enhancement-36)  |  [v3.6](https://www.moddb.com/downloads/bsp-doom-enhancement-36)
 Only the wonderfully remade level transition screen textures were taken from this mod.
-
-## Music:
-
-*Work in Progress*

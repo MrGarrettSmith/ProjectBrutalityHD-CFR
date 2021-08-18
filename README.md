@@ -26,19 +26,23 @@ Newer builds have a new movement system in place that removes the original "feel
 ## [HOOVER1979 UltraHD Texture Pack](https://www.moddb.com/mods/hoover1979-ultrahd-doom-texture-pack/downloads)  |  [Demo 2 (1K Version)](https://www.moddb.com/mods/hoover1979-ultrahd-doom-texture-pack/downloads/hoover1979-ultrahd-texture-pack-1k-version)
 HOOVER1979 created beautifully new 4K textures for all the DOOM episodes.
 
-However, the 1K version was used due to performance related issues.
+However, the 1K version was used due to performance related issues when loading textures "on the fly."
 
 He is contantly updating and share new textures over on his [DeviantArt page](https://www.deviantart.com/hoover1979/gallery/59360732/ultrahd-doom-texture-work).
 
 
-## [BsP DooM Enhancement](https://www.moddb.com/downloads/bsp-doom-enhancement-36)  |  [v3.6](https://www.moddb.com/downloads/bsp-doom-enhancement-36)
-Only the wonderfully remade level transition screen textures were taken from this mod.
-
-## [DHTP (Doom High Resolution Texture Project)]()  |  
+## [DHTP (Doom High Resolution Texture Project)](https://github.com/KuriKai/DHTP) 
+Some textures that were not remade in HOOVER1979's texture pack were used. [Forum page](https://talk.dengine.net/discussion/875/dhtp-doom-high-resolution-texture-project)
 
 ## [Alternate DHTP]()  |  
+Some textures that were not remade in either HOOVER1979's or DHTP's texture packs were used.
 
 ## [Doom Neural Upscale 2x](https://www.moddb.com/mods/oculus-quest-vr-weapons-for-questzdoom/downloads/doom-neural-upscale-2x)  |  [v0.95](https://drive.google.com/file/d/1S2sHfxTfWI1bLp5Zz9D2kfYNU49tkqco/view)
 From the [forum page](https://www.doomworld.com/forum/topic/99021-doom-neural-upscale-2x-v-10/):
 > Using AI NeuralNetworks, all textures and sprites have been upscaled 8x, then downscaled to a final 2X to restore a pixel art look.
-Some of these upscales were used, while other were not due to some issues and conflicts (mostly from the sprites from Project Brutality).
+
+Some of these upscales were used, while other were not due to some issues and conflicts (mostly with the sprites from Project Brutality).
+
+
+## [BsP DooM Enhancement](https://www.moddb.com/downloads/bsp-doom-enhancement-36)  |  [v3.6](https://www.moddb.com/downloads/bsp-doom-enhancement-36)
+Only the wonderfully remade level transition screen textures were taken from this mod.

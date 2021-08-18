@@ -4,7 +4,7 @@ This a completely customized GZDoom with various mods, textures and music.
 
 The goal was to enhance the experience of playing the Project Brutality mod.
 
-Several mods were used, altered, and unpacked to avoid various issues and conflicts.
+All mods listed have been altered and unpacked to avoid various issues and conflicts.
 
 ### Screenshots:
 

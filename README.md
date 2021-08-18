@@ -24,6 +24,7 @@ Utilizing WADsmoosh, a custom WAD was created containing all original levels inc
 
 ## Gameplay
 ![Alt Text](https://s5.gifyu.com/images/Gameplay-01.gif)
+![](https://s5.gifyu.com/images/Gameplay-01.gif)
 
 <img src="https://s5.gifyu.com/images/Gameplay-01.gif"/>
 

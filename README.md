@@ -25,6 +25,9 @@ An older test version of Project Brutality is used due to the changes of the mov
 
 Newer builds have a new movement system in place that removes the original "feel," such as tilting when strafing.
 
+## [UDV (Ultimate Doom Visor)](https://www.moddb.com/mods/brutal-doom/addons/doomvisor-hud-for-pa1nki113r-v51)  |  [v2.12b](https://mega.nz/folder/ABcWTZzD#urYIFclyyd75l2shnuiigw/file/5B8EGAxL)
+Arguebly the best HUD for Project Brutality.
+
 ## [HOOVER1979 UltraHD Texture Pack](https://www.moddb.com/mods/hoover1979-ultrahd-doom-texture-pack/downloads)  |  [Demo 2 (1K Version)](https://www.moddb.com/mods/hoover1979-ultrahd-doom-texture-pack/downloads/hoover1979-ultrahd-texture-pack-1k-version)
 HOOVER1979 created beautifully new 4K textures for all the DOOM episodes.
 

@@ -9,7 +9,7 @@ Several mods were used, altered, and unpacked to avoid various issues and confli
 ### Screenshots:
 
 
-## [[GZDoom](https://zdoom.org/downloads)]
+## [GZDoom](https://zdoom.org/downloads)
 
 [g3.7.2 Legacy](https://zdoom.org/files/gzdoom/bin/gzdoom-bin-3-8-0-legacy-x64.zip)
 

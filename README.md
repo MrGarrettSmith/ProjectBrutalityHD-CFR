@@ -25,7 +25,9 @@ Newer builds have a new movement system in place that removes the original "feel
 
 ## [HOOVER1979 UltraHD Texture Pack](https://www.moddb.com/mods/hoover1979-ultrahd-doom-texture-pack/downloads)  |  [Demo 2 (1K Version)](https://www.moddb.com/mods/hoover1979-ultrahd-doom-texture-pack/downloads/hoover1979-ultrahd-texture-pack-1k-version)
 HOOVER1979 created beautifully new 4K textures for all the DOOM episodes.
+
 However, the 1K version was used due to performance related issues.
+
 He is contantly updating and share new textures over on his [DeviantArt page](https://www.deviantart.com/hoover1979/gallery/59360732/ultrahd-doom-texture-work).
 
 

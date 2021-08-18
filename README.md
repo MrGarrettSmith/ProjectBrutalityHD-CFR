@@ -23,7 +23,7 @@ Utilizing WADsmoosh, a custom WAD was created containing all original levels inc
 <img src="https://i.ibb.co/4RP4WQ8/Main-Menu-01.jpg" alt="Main Menu 01" width="200"/><img src="https://i.ibb.co/5vd3XtH/Main-Menu-02.png" alt="Main Menu 02" width="200"/><img src="https://i.ibb.co/XLbXMCw/Main-Menu-03.png" alt="Main Menu 03" width="200"/><img src="https://i.ibb.co/RH4NYkZ/gzdoom-Qo-FPwxm-A19.jpg" alt="Textures" width="200"/><img src="https://i.ibb.co/R23n9Xp/gzdoom-Qy-Sn-O3-KZWE.jpg" alt="Transition" width="200"/>
 
 ## Gameplay
-<img src="https://thumbs.gfycat.com/VioletAlertGrouse-mobile.mp4" alt="Gameplay 01" width=""/>
+![Alt Text](https://s5.gifyu.com/images/Gameplay-01.gif)
 
 ## Mods:
 

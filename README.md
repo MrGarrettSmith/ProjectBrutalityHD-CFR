@@ -27,25 +27,12 @@ Utilizing WADsmoosh, a custom WAD was created containing all original levels inc
 
 ## Gameplay
 
-[![Gameplay-01.gif](https://s5.gifyu.com/images/Gameplay-01.gif)](https://gifyu.com/image/GLC2)
 
-
-https://gifyu.com/image/GLC2
-
-
-<a href="https://gifyu.com/image/GLC2"><img src="https://s5.gifyu.com/images/Gameplay-01.gif" alt="Gameplay-01.gif" border="0" /></a>
-
-
-[url=https://gifyu.com/image/GLC2][img]https://s5.gifyu.com/images/Gameplay-01.gif[/img][/url]
-
-
-https://s5.gifyu.com/images/Gameplay-01.gif
 
 
 <a href="https://gifyu.com/image/GLC2"><img src="https://s5.gifyu.com/images/Gameplay-01.th.gif" alt="Gameplay-01.gif" border="0" /></a>
 
 
-[url=https://gifyu.com/image/GLC2][img]https://s5.gifyu.com/images/Gameplay-01.th.gif[/img][/url]
 
 
 [![Gameplay-01.th.gif](https://s5.gifyu.com/images/Gameplay-01.th.gif)](https://gifyu.com/image/GLC2)

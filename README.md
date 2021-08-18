@@ -35,7 +35,7 @@ Utilizing WADsmoosh, a custom WAD was created containing all original levels inc
 
 
 
-[![Gameplay-01.th.gif](https://s5.gifyu.com/images/Gameplay-01.gif)](https://gifyu.com/image/GLC2)
+[![](https://s5.gifyu.com/images/Gameplay-01.gif)](https://s5.gifyu.com/images/Gameplay-01.gif)
 
 
 

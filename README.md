@@ -31,7 +31,7 @@ However, the 1K version was used due to performance related issues when loading 
 He is contantly updating and share new textures over on his [DeviantArt page](https://www.deviantart.com/hoover1979/gallery/59360732/ultrahd-doom-texture-work).
 
 
-## [DHTP (Doom High Resolution Texture Project)](https://github.com/KuriKai/DHTP) 
+## [DHTP (Doom High Resolution Texture Project)](https://github.com/KuriKai/DHTP)  |  [2019-11-17](https://www.moddb.com/mods/doom-hd1/downloads/gzdoom-hd-texture-pack1)
 Some textures that were not remade in HOOVER1979's texture pack were used. [Forum page](https://talk.dengine.net/discussion/875/dhtp-doom-high-resolution-texture-project)
 
 ## [Alternate DHTP]()  |  

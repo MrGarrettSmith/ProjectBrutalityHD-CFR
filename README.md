@@ -44,7 +44,6 @@ However, the 1K version was used due to performance related issues when loading 
 
 He is contantly updating and share new textures over on his [DeviantArt page](https://www.deviantart.com/hoover1979/gallery/59360732/ultrahd-doom-texture-work).
 
-
 ### [DHTP (Doom High Resolution Texture Project)](https://github.com/KuriKai/DHTP)  |  [2019-11-17](https://www.moddb.com/mods/doom-hd1/downloads/gzdoom-hd-texture-pack1)
 Some textures that were not remade in HOOVER1979's texture pack were used. [Forum page](https://talk.dengine.net/discussion/875/dhtp-doom-high-resolution-texture-project)
 
@@ -60,6 +59,9 @@ From the [forum page](https://www.doomworld.com/forum/topic/99021-doom-neural-up
 
 Some of these upscaled sprites were used, while others were not due to some issues and conflicts (mostly from sprites of Project Brutality).
 
-
 ### [BsP DooM Enhancement](https://www.moddb.com/downloads/bsp-doom-enhancement-36)  |  [v3.6](https://www.moddb.com/downloads/bsp-doom-enhancement-36)
 Only the wonderfully remade level transition screen textures were taken from this mod.
+
+## Music:
+
+*Work in Progress*

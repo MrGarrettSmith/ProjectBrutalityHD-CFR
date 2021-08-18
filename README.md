@@ -20,17 +20,17 @@ Utilizing WADsmoosh, a custom WAD is used containing all original levels includi
 ## [Full Run](https://jp.itch.io/doom-fullrun)
 Allows player to play a "full run" of all 171 maps in all id releases as a single campaign.
 
-## Project Brutality
+## [Project Brutality](https://github.com/pa1nki113r/Project_Brutality)  |  [2018-01-21](https://drive.google.com/file/d/1aRFCJeXDpjTxqYUgz_kNaLjkLVS9I6cK/view)
 
 An older test version of Project Brutality is used due to the changes of the movement system from this build onward.
 Newer builds have a new movement system in place that removes the original "feel," such as tilting when strafing.
 
-## BsP DooM Enhancement
+## [BsP DooM Enhancement]()  |  
 
-## HOOVER1979 UltraHD Texture Pack 1K Version
+## [HOOVER1979 UltraHD Texture Pack 1K Version]()  |  
 
-## Doom Neural Upscale 2x
+## [Doom Neural Upscale 2x]()  |  
 
-## DHTP (Doom High Resolution Texture Project)
+## [DHTP (Doom High Resolution Texture Project)]()  |  
 
-## Alternate DHTP
+## [Alternate DHTP]()  |  

@@ -24,7 +24,9 @@ Utilizing WADsmoosh, a custom WAD was created containing all original levels inc
 
 ## Gameplay
 ![Alt Text](https://s5.gifyu.com/images/Gameplay-01.gif)
-<img src="https://s5.gifyu.com/images/Gameplay-01.gif" width="40" height="40" />
+
+<img src="https://s5.gifyu.com/images/Gameplay-01.gif"/>
+
 ## Mods:
 
 ### [Full Run](https://jp.itch.io/doom-fullrun)

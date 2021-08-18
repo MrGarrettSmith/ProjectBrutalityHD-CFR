@@ -10,6 +10,8 @@ To run the game with the intended experience, download the entire github zip and
 
 The LAN batch files will have to be edited to work correctly.
 
+Tested on a system with an Intel i7-6700K and a Nvidia GTX 1080 mini at a 1080p resolution.
+
 ### [GZDoom](https://zdoom.org/downloads)  |  [g3.7.2 Legacy](https://zdoom.org/files/gzdoom/bin/gzdoom-bin-3-8-0-legacy-x64.zip)
 GZDoom version g3.7.2_legacy was used for compatibility and other customization purposes.
 

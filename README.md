@@ -25,7 +25,7 @@ Newer builds have a new movement system in place that removes the original "feel
 ## [BsP DooM Enhancement](https://www.moddb.com/downloads/bsp-doom-enhancement-36)  |  [v3.6](https://www.moddb.com/downloads/bsp-doom-enhancement-36)
 Only the beautifully remade transition screen textures were taken from this mod.
 
-## [HOOVER1979 UltraHD Texture Pack]()  |  [Demo 2 - 1K Version](https://www.moddb.com/mods/hoover1979-ultrahd-doom-texture-pack/downloads/hoover1979-ultrahd-texture-pack-1k-version)
+## [HOOVER1979 UltraHD Texture Pack]()  |  [Demo 2 (1K Version)](https://www.moddb.com/mods/hoover1979-ultrahd-doom-texture-pack/downloads/hoover1979-ultrahd-texture-pack-1k-version)
 
 
 

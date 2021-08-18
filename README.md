@@ -34,11 +34,11 @@ He is contantly updating and share new textures over on his [DeviantArt page](ht
 ## [BsP DooM Enhancement](https://www.moddb.com/downloads/bsp-doom-enhancement-36)  |  [v3.6](https://www.moddb.com/downloads/bsp-doom-enhancement-36)
 Only the wonderfully remade level transition screen textures were taken from this mod.
 
-
-## [Doom Neural Upscale 2x](https://www.moddb.com/mods/oculus-quest-vr-weapons-for-questzdoom/downloads/doom-neural-upscale-2x)  |  [v0.95](https://drive.google.com/file/d/1S2sHfxTfWI1bLp5Zz9D2kfYNU49tkqco/view)
-From the [forum page](https://www.doomworld.com/forum/topic/99021-doom-neural-upscale-2x-v-10/):
-> Using AI NeuralNetworks (A lot of Nividia's texture tools : super resolution and a little bit of Topaz's AI gigaPixel), all textures and sprites have been upscaled 8x (with tons of AI artefacts), then downscaled to a final 2X to restore a pixel art look.
-
 ## [DHTP (Doom High Resolution Texture Project)]()  |  
 
 ## [Alternate DHTP]()  |  
+
+## [Doom Neural Upscale 2x](https://www.moddb.com/mods/oculus-quest-vr-weapons-for-questzdoom/downloads/doom-neural-upscale-2x)  |  [v0.95](https://drive.google.com/file/d/1S2sHfxTfWI1bLp5Zz9D2kfYNU49tkqco/view)
+From the [forum page](https://www.doomworld.com/forum/topic/99021-doom-neural-upscale-2x-v-10/):
+> Using AI NeuralNetworks, all textures and sprites have been upscaled 8x, then downscaled to a final 2X to restore a pixel art look.
+Some of these upscales were used, while other were not due to some issues and conflicts (mostly from the sprites from Project Brutality).

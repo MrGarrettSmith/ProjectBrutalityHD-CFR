@@ -1,1 +1,1 @@
-# DooM
+# Project Brutality HD: Classic

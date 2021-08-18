@@ -6,7 +6,9 @@ The goal was to enhance the experience of playing the Project Brutality mod.
 
 All mods listed have been altered and unpacked to avoid various issues and conflicts.
 
+To run the game with the intended experience, download the entire github zip and run the Single Player batch file.
 
+The LAN batch files will have to be edited to work correctly.
 
 ### [GZDoom](https://zdoom.org/downloads)  |  [g3.7.2 Legacy](https://zdoom.org/files/gzdoom/bin/gzdoom-bin-3-8-0-legacy-x64.zip)
 GZDoom version g3.7.2_legacy was used for compatibility and other customization purposes.

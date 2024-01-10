@@ -21,7 +21,7 @@ Utilizing WADsmoosh, a custom WAD was created containing all original levels inc
 ## Screenshots:
 <img src="https://i.ibb.co/4RP4WQ8/Main-Menu-01.jpg" alt="Main Menu 01" width="200"/><img src="https://i.ibb.co/5vd3XtH/Main-Menu-02.png" alt="Main Menu 02" width="200"/><img src="https://i.ibb.co/XLbXMCw/Main-Menu-03.png" alt="Main Menu 03" width="200"/><img src="https://i.ibb.co/RH4NYkZ/gzdoom-Qo-FPwxm-A19.jpg" alt="Textures" width="200"/><img src="https://i.ibb.co/R23n9Xp/gzdoom-Qy-Sn-O3-KZWE.jpg" alt="Transition" width="200"/>
 
-## Gameplay
+## Gameplay:
 ![](https://github.com/garrettsmithpro/ProjectBrutalityHD-CFR/blob/main/gameplay_gif/Gameplay%2001.gif)
 ![](https://github.com/garrettsmithpro/ProjectBrutalityHD-CFR/blob/main/gameplay_gif/Gameplay%2002.gif)
 ## Mods:
@@ -42,7 +42,7 @@ HOOVER1979 created beautifully new 4K textures for all the DOOM episodes.
 
 However, the 1K version was used due to performance related issues when loading textures "on the fly."
 
-He is contantly updating and share new textures over on his [DeviantArt page](https://www.deviantart.com/hoover1979/gallery/59360732/ultrahd-doom-texture-work).
+He is constantly updating and share new textures over on his [DeviantArt page](https://www.deviantart.com/hoover1979/gallery/59360732/ultrahd-doom-texture-work).
 
 ### [DHTP (Doom High Resolution Texture Project)](https://github.com/KuriKai/DHTP)  |  [2019-11-17](https://www.moddb.com/mods/doom-hd1/downloads/gzdoom-hd-texture-pack1)
 Some textures that were not remade in HOOVER1979's texture pack were used. [Forum page](https://talk.dengine.net/discussion/875/dhtp-doom-high-resolution-texture-project)
